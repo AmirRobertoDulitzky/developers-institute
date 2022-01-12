@@ -1,0 +1,49 @@
+span {
+    background-color: yellow;
+}
+
+#catSenses {
+    margin-left: 50px;
+}
+
+#catSenses h3 {
+    text-decoration: underline;
+}
+
+#catMedia {
+    text-align: center;
+}
+
+#catPic{
+    border:  10px solid rgb(212, 93, 57);
+}
+
+#lionTablePic {
+    text-align: center;
+    /* margin:auto; */
+}
+
+table {
+    margin:auto;
+    width: 1300px;
+}
+
+ th, tr, td {
+    margin:auto;
+    width: 1300px;
+    border: 1px solid;  
+} 
+
+#hr1 {
+    color: red;
+}
+
+.td {
+    height: 50px;
+    padding: 5px;
+}
+
+#lionPic{
+    margin: 50px;
+    border:  10px solid rgb(212, 93, 57);
+}
