@@ -24,9 +24,8 @@ else:
     print(string[0:9])
     print(string[0:10])
 
-   #----------I couldn't make the random.shuffle thing to work.
-#    here is an example:
-# import random
-# x = "abcde"
-# xy = random.shuffle(x)
-# print(xy)
+import random
+
+str_var = list(string)
+random.shuffle(str_var)
+print(''.join(str_var))
